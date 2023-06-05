@@ -132,6 +132,7 @@ label {
 
 #check {
     z-index: 3;
+    visibility:hidden;
 }
 
 @media (max-width: 960px) {
